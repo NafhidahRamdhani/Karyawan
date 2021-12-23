@@ -144,7 +144,7 @@ include ("koneksi.php");
                         <td align="center"><?php echo $no ?></td>
                         <td align="left"><?php echo $row[0] ?></td>
                         <td align="left"><?php echo $row[1] ?></td>
-                        <td><img src="<?php echo $row[2] ?>.png" width="150px" height="100px"> </td>
+                        <td><img src="<?php echo $row[2] ?>.png" width="300px" height="100px"> </td>
                       </tr>
                       <?php
                       $no++;
